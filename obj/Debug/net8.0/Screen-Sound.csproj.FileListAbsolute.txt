@@ -12,3 +12,4 @@ C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound\obj\Debug\net8.0\refint\S
 C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound\obj\Debug\net8.0\Screen-Sound.pdb
 C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound\obj\Debug\net8.0\Screen-Sound.genruntimeconfig.cache
 C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound\obj\Debug\net8.0\ref\Screen-Sound.dll
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound\obj\Debug\net8.0\Screen-Sound.sourcelink.json
